@@ -4,7 +4,7 @@ Static tax-parameters data for the [DayKeep](https://github.com/Just-Vlados/dayk
 served via GitHub Pages:
 
 ```
-https://just-vlados.github.io/daykeep-data/tax-parameters.json
+https://daykeep-data.vilae.uk/tax-parameters.json
 ```
 
 ## Update workflow (Budget day / fiscal events)
